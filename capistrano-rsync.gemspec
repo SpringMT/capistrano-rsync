@@ -19,7 +19,7 @@ Gem::Specification.new do |gem|
     Suitable for deploying any apps, be it Ruby or Node.js.
   end
 
-  gem.author = "Andri Möll"
+  gem.author = "Andri"
   gem.email = "andri@dot.ee"
   gem.license = "LAGPL"
 
